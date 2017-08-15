@@ -1,0 +1,10 @@
+[Core]
+name = Discord
+module = discord
+
+[Documentation]
+description = Discord utilities for Errbot
+
+[Python]
+version = 3
+
