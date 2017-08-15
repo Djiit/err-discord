@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/Djiit/err-discord.svg?branch=master)](https://travis-ci.org/Djiit/err-discord) [![Coverage Status](https://coveralls.io/repos/github/Djiit/err-discord/badge.svg?branch=master)](https://coveralls.io/github/Djiit/err-discord?branch=master)
 
-Err-discord is a plugin for [Err](https://github.com/gbin/err) that helps you use Discord as a backend.
+Err-discord is a plugin for [Err](https://github.com/gbin/err) that helps you use Discord as a backend. **It requires Python 3.6+**.
 
 ## Features
 
